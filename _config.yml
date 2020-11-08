@@ -1,2 +1,4 @@
 name: Isaac Moorman
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
